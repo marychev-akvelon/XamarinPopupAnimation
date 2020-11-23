@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCQ5xaVq2yIUZr71NOObFCWQz5PcsZuOOWm4IKn9RS5kTrR38v9g6EtO/1y5pP5kory4NBNPJ8zMGv1OCnyTOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\XamarinPopupAnimation\\XamarinPopupAnimation\\XamarinPopupAnimation.iOS\\XamarinPopupAnimation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

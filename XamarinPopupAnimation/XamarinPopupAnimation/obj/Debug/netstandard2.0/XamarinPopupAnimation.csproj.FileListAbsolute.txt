@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\bin\Debug\netstandard2.0\XamarinPopupAnimation.deps.json
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\bin\Debug\netstandard2.0\XamarinPopupAnimation.dll
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\bin\Debug\netstandard2.0\ref\XamarinPopupAnimation.dll
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\bin\Debug\netstandard2.0\XamarinPopupAnimation.pdb
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.dll
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\ref\XamarinPopupAnimation.dll
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.pdb
+C:\Users\Administrator\source\repos\XamarinPopupAnimation\XamarinPopupAnimation\XamarinPopupAnimation\obj\Debug\netstandard2.0\XamarinPopupAnimation.csprojAssemblyReference.cache

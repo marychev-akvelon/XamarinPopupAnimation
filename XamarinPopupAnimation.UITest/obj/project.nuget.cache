@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNYB5LV5Mpa9LsrlsUj7AKTpydWUB4W+nj94kwhMIvXCOr1icspYEEjAj3/JigpZT1cYl9dU5QogjBrUAdAufQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\XamarinPopupAnimation\\XamarinPopupAnimation.UITest\\XamarinPopupAnimation.UITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
